@@ -34,4 +34,16 @@ So I can save energy
 
 As a user
 I want want max temperature to be 32 degrees if power saving mode is off
-So I don't cook 
+So I don't cook
+
+# You can reset the temperature to 20 with a reset function
+
+As a user
+I want a reset option to make the temperature 20
+So I can easily change it to the default
+
+# You can ask about the thermostat's current energy usage: < 18 is low-usage, < 25 is medium-usage, anything else is high-usage
+
+As a user
+I want to see what my energy usage is
+So I can make decisions on temperature based on if I'm using a high, med or low amount of energy.
